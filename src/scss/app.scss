@@ -1,0 +1,15 @@
+// My variables - includes variable overrides for vendored dependencies
+@import "variables";
+@import "normalize";
+
+body {
+	background: $color;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100vw;
+}
