@@ -1,5 +1,7 @@
 # Gulp Boilerplate 
 
+The simple, modern Gulp boilerplate with the minimum of essential features that needed for efficient development.
+
 ## How to use
 
 Install [https://nodejs.org/en/](Node.js), restart your computer. Run the next commands in the working directory of the project.
