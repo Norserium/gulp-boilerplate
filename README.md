@@ -4,7 +4,7 @@ The simple, modern Gulp boilerplate with the minimum of essential features that 
 
 ## How to use
 
-Install [https://nodejs.org/en/](Node.js), restart your computer. Run the next commands in the working directory of the project.
+Install [Node.js](https://nodejs.org/en/), restart your computer. Run the next commands in the working directory of the project.
 
 ```
 npm install
@@ -14,7 +14,7 @@ npm install
 npm run start
 ```
 
-Server will run on [localhost:3000](localhost:3000). To build your project for the production you need to build project by the following command.
+Server will run on [localhost:3000](http://localhost:3000). To build your project for the production you need to run the following command.
 ```
 npm run build
 ```
